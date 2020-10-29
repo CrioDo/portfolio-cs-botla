@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-cs-botla/static/css/main.5db1380d.chunk.css",
+    "main.js": "/portfolio-cs-botla/static/js/main.d04e32bf.chunk.js",
+    "main.js.map": "/portfolio-cs-botla/static/js/main.d04e32bf.chunk.js.map",
+    "runtime-main.js": "/portfolio-cs-botla/static/js/runtime-main.902e6627.js",
+    "runtime-main.js.map": "/portfolio-cs-botla/static/js/runtime-main.902e6627.js.map",
+    "static/css/2.57ddf7ad.chunk.css": "/portfolio-cs-botla/static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.b8e41b04.chunk.js": "/portfolio-cs-botla/static/js/2.b8e41b04.chunk.js",
+    "static/js/2.b8e41b04.chunk.js.map": "/portfolio-cs-botla/static/js/2.b8e41b04.chunk.js.map",
+    "index.html": "/portfolio-cs-botla/index.html",
+    "precache-manifest.db9be43f3690a23fde7f4b644aa82dbe.js": "/portfolio-cs-botla/precache-manifest.db9be43f3690a23fde7f4b644aa82dbe.js",
+    "service-worker.js": "/portfolio-cs-botla/service-worker.js",
+    "static/css/2.57ddf7ad.chunk.css.map": "/portfolio-cs-botla/static/css/2.57ddf7ad.chunk.css.map",
+    "static/css/main.5db1380d.chunk.css.map": "/portfolio-cs-botla/static/css/main.5db1380d.chunk.css.map",
+    "static/js/2.b8e41b04.chunk.js.LICENSE.txt": "/portfolio-cs-botla/static/js/2.b8e41b04.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/portfolio-cs-botla/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/portfolio-cs-botla/static/media/crio-logo.63be71d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.902e6627.js",
+    "static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.b8e41b04.chunk.js",
+    "static/css/main.5db1380d.chunk.css",
+    "static/js/main.d04e32bf.chunk.js"
+  ]
+}
